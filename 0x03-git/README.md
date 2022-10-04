@@ -3,7 +3,7 @@
 - __[GitHub Account](github.com/Bigsheun)__ - Full stack developer 
 
 
-You will like those projects!
+ You will like those projects!...
 
 
  ![picture of Bigsheun](https://avatars.githubusercontent.com/u/88635898?s=120&v=4 "Full stack developer")
